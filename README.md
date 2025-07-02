@@ -36,7 +36,6 @@ Or run `src/main.py` for a script-based flow.
 
 ## Author
 
-- **Your Name**
 - Data Science Intern at Evamp & Saanga
 
 ## License
